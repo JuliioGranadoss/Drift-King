@@ -29,14 +29,14 @@ Drift King es una aplicación web dedicada al apasionante mundo del drift, dise�
 3. Ejecuta el siguiente comando para clonar el repositorio desde GitHu
 
 ```
-git clone <URL_del_repositorio>
+git clone https://github.com/JuliioGranadoss/Drift-King.git
 ```
 
 ### Ejecutar el Proyecto
 4. Una vez que el repositorio se ha clonado con éxito, navega al directorio del proyecto.
 
 ```
-cd drift-king
+cd Drift-King
 ```
 
 5. Abre el archivo index.html en tu navegador web preferido.
