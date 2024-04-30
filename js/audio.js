@@ -22,31 +22,31 @@ let updateTimer;
 const music_list = [
     {
         id: 0,
-        img : '../imagenes/Tokyo_Drift.jpg',
+        img : './../imagenes/Tokyo_Drift.jpg',
         name : 'Tokyo Drift',
         artist : 'Teriyaki Boyz',
-        music : '../canciones/Tokyo_Drift.mp3'
+        music : './../canciones/Tokyo_Drift.mp3'
     },
     {
         id: 1,
-        img : '../imagenes/Danza_Kuduro.jpg',
+        img : './../imagenes/Danza_Kuduro.jpg',
         name : 'Danza Kuduro',
         artist : 'Don Omar, Lucenzo',
-        music : '../canciones/Danza_Kuduro.mp3'
+        music : './../canciones/Danza_Kuduro.mp3'
     },
     {
         id: 2,
-        img : '../imagenes/Blanco.jpeg',
+        img : './../imagenes/Blanco.jpeg',
         name : 'Blanco',
         artist : 'Pitbull, Pharrell Williams',
-        music : '../canciones/Blanco.mp3'
+        music : './../canciones/Blanco.mp3'
     },
     {
         id: 3,
-        img : '../imagenes/Rapido.jpg',
+        img : './../imagenes/Rapido.jpg',
         name : 'Rapido',
         artist : 'Amenazzy, Farruko, Myke Towers',
-        music : '../canciones/Rapido.mp3'
+        music : './../canciones/Rapido.mp3'
     }
 ];
 
