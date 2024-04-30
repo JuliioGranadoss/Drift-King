@@ -26,7 +26,7 @@ scene.add(light2);
 let mixer;
 const loaderGLTF = new GLTFLoader();
 
-loaderGLTF.load('../assets/coche/scene.gltf', 
+loaderGLTF.load('./../assets/coche/scene.gltf', 
         function(gltf){
             const model = gltf.scene;
             scene.add(model);
